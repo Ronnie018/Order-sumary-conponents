@@ -133,6 +133,10 @@ div.planprice{
 .cancel:active{
     color: rgb(162, 162, 162);
 }
+footer{
+    position: relative;
+    top: -60px;
+}
 
 
 @media(max-width: 445px){
