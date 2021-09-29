@@ -21,7 +21,7 @@ body{
 }
 
 main{
-    margin: 70px auto;
+    margin: 100px auto 0px auto;
     background-color: white;
     height: 700px;
     width: 450px;
